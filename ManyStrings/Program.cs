@@ -9,10 +9,14 @@ namespace ManyStrings
     {
         static void Main(string[] args)
         {
+            double xx = 1.23456;
+            int ii = 19;
             Console.WriteLine(test1);
             Console.WriteLine(test2);
             Console.WriteLine(conc);
             Console.WriteLine(inter);
+            Console.WriteLine(xx);
+            Console.WriteLine(ii);
         }
     }
 }
